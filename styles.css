@@ -1,0 +1,62 @@
+body {
+	background: black;
+}
+
+.postcard {
+	background: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+
+.postcard-header {
+	display: flex;
+}
+
+.geeks {
+	width: 50px;
+	height: 50px;
+	padding: 5px 5px 5px 5px;
+}
+
+p {
+	font-size: 14px;
+	padding-left: 5px;
+}
+
+h1 {
+	width: 500px;
+	margin: 0;
+	font-family: "Bebas Neue", cursive;
+	padding-left: 10px;
+	padding-top: 11px;
+}
+
+.postcard-body {
+	display: flex;
+}
+
+.body-left {
+	padding: 5px;
+}
+
+.body-right {
+	padding: 20px 10px 5px 5px;
+}
+
+.postcard-footer {
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+}
+
+button {
+	background-color: grey;
+	padding: 5px 5px 5px 5px;
+	border: none;
+}
+
+.sinborde {
+	border: none;
+	border-bottom-style: solid;
+	border-bottom-color: grey;
+}
